@@ -1,0 +1,4 @@
+
+Django==3.2.6
+django-debug-toolbar==3.4.0
+django-heroku==0.3.1
